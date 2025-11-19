@@ -15,7 +15,6 @@
     "moduleDetection": "force",
     "noEmit": true,
     "jsx": "react-jsx",
-    "verbatimModuleSyntax": false,
     "esModuleInterop": true
   },
   "include": ["src"]
